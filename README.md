@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c4hun
-- 👀 I’m interested in R, SQL, Power BI
+- 👀 I’m interested in Angular
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on Junior Web developer
 - 📫 How to reach me vms.j88uh@slmail.me
