@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c4hun
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning Symfony and JavaScript
 - 💞️ I’m looking to collaborate on Junior Web developer or on Java development
 - 📫 How to reach me vms.j88uh@slmail.me
 
