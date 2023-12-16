@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c4hun
+- 👋 Hi, I’m @Chooshou
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Symfony and JavaScript
 - 💞️ I’m looking to collaborate on Junior Web developer or on Java development
