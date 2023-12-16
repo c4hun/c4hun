@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chooshou
-- 👀 I’m interested in Java
+- 👀 I’m interested in webdeveloper
 - 🌱 I’m currently learning Symfony and JavaScript
-- 💞️ I’m looking to collaborate on Junior Web developer or on Java development
+- 💞️ I’m looking forward a chance on Junior Web developer for my study
 - 📫 How to reach me vms.j88uh@slmail.me
 
 <!---
