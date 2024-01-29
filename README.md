@@ -5,7 +5,7 @@
 - 🧪 📟 🥼 🔬 🧬 🧪 📟 🥼 🔬 🧬 🧪 📟 🥼 🔬 🧬 🧪 📟 🥼 🔬 🧬 
 
 - 🗣️ :: 🇸🇬 🇯🇵 🇨🇦 🇺🇸
-- 🌱 I’m currently learning JavaScript and its framworks(React.JS and Node.JS) for a chance on Junior Web developer(Front-End) for my study (full stack web developer)
+- 🌱 I’m currently learning Angular, JavaScript and its framworks(React.JS and Node.JS) for a chance on Junior Web developer(Front-End) for my study (full stack web developer)
 
 
 <!---
