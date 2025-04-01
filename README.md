@@ -1,11 +1,7 @@
-- 🧪 📟 🥼 🔬 🧬 🧪 📟 🥼 🔬 🧬 🧪 📟 🥼 🔬 🧬 🧪 📟 🥼 🔬 🧬
-- OS used as following :
-- Major: Ubuntu 22.04; kernel 6.5.0.14
-- Study: Red Hat Enterprise Linux 9.3; kernel 5.14.0
-- 🧪 📟 🥼 🔬 🧬 🧪 📟 🥼 🔬 🧬 🧪 📟 🥼 🔬 🧬 🧪 📟 🥼 🔬 🧬 
+
 
 - 🗣️ :: 🇸🇬 🇯🇵 🇨🇦 🇺🇸
-- 🌱 I’m currently working at JavaScript, framworks(such as React.JS and Symfony6 Symfony7) for a Junior Full-Stack Web developer, in regarding to use A.W.S Cloud Computing and Docker skills.
+- 🌱 C# Self-learner
 
 
 <!---
