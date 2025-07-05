@@ -1,7 +1,7 @@
 
 
 - 🗣️ :: 🇸🇬 🇯🇵 🇨🇦 🇺🇸
-- 🌱 `ASP.NET`, `Vim` and `Linux` Self-learner
+- 🌱 Self-learner in `ASP.NET`, `PowerShell`, `Vim` and `Linux`
 
 
 <!---
