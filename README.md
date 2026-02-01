@@ -1,9 +1,10 @@
 # 🗣️ :: 🇸🇬 🇯🇵 🇨🇦 🇺🇸
 # 🌱 Self-learner in 
-  - `REST APIs`,
-  - `Power BI`, 
-  - `Power Pivot` and
-  - `PowerShell` 
+  - REST APIs,
+  - Docker` containerization and management,
+  - Database querying and visualization with DBeaver,
+  - Microsoft Business Solutions, including Power BI, Power Pivot and PowerShell
+  
 
 <!---
 c4hun/c4hun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
