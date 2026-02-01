@@ -2,8 +2,8 @@
 # 🌱 Self-learner in 
   - `ASP.NET`,
   - `PowerShell`,
-  - `Vim` and
-  - `Linux`
+  - `Ajax` and
+  - `JSON`
 
 
 <!---
