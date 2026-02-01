@@ -1,7 +1,9 @@
 # 🗣️ :: 🇸🇬 🇯🇵 🇨🇦 🇺🇸
 # 🌱 Self-learner in 
-  - `ASP.NET`  and
-  - `PowerShell`
+  - `REST APIs`,
+  - `Power BI`, 
+  - `Power Pivot` and
+  - `PowerShell` 
 
 <!---
 c4hun/c4hun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
