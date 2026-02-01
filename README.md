@@ -3,7 +3,7 @@
   - `ASP.NET`,
   - `PowerShell`,
   - `Ajax` and
-  - `JSON`
+  - `.JSON`
 
 
 <!---
