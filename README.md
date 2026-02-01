@@ -1,7 +1,7 @@
 # 🗣️ :: 🇸🇬 🇯🇵 🇨🇦 🇺🇸
 # 🌱 Self-learner in 
   - REST APIs,
-  - Docker` containerization and management,
+  - Docker containerization and management,
   - Database querying and visualization with DBeaver,
   - Microsoft Business Solutions, including Power BI, Power Pivot and PowerShell
   
