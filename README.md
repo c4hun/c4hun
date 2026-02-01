@@ -1,10 +1,7 @@
 # 🗣️ :: 🇸🇬 🇯🇵 🇨🇦 🇺🇸
 # 🌱 Self-learner in 
-  - `ASP.NET`,
-  - `PowerShell`,
-  - `Ajax` and
-  - `.JSON`
-
+  - `ASP.NET`  and
+  - `PowerShell`
 
 <!---
 c4hun/c4hun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
