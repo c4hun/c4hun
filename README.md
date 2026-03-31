@@ -2,7 +2,7 @@
 # 🌱 Self-learner in 
   - REST APIs,
   - Docker containerization and management,
-  - Database querying and visualization with DBeaver,
+  - Database querying and visualization with MySQL,
   - Microsoft Business Solutions, including Power BI, Power Pivot and PowerShell
   
 
