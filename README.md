@@ -1,10 +1,23 @@
 # 🗣️ :: 🇸🇬 🇯🇵 🇨🇦 🇺🇸
-# 🌱 Self-learner in 
-  - REST APIs,
-  - Docker containerization and management,
-  - Database querying and visualization with MySQL,
-  - Microsoft Business Solutions, including Power BI, Power Pivot and PowerShell
-  
+# Data & Databases
+- Database design (normalisation, PK/FK, views)
+- LINQ queries against SQLite via Entity Framework Core
+- MySQL querying and visualization
+- JSON data ingestion and deserialization
+
+# Backend & Development
+- C# / .NET 10 console applications
+- EF Core ORM (migrations, DbContext, relationships)
+- REST APIs (self-learning)
+- Docker containerization and management
+
+# Microsoft Ecosystem
+- Power BI, Power Pivot, PowerShell
+
+# Tooling & Workflow
+- Git version control (Linux terminal + Visual Studio 2022)
+- Cross-platform development (Ubuntu + Windows)
+- Portfolio projects published on GitHub
 
 <!---
 c4hun/c4hun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
