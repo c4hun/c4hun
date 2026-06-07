@@ -4,12 +4,13 @@
 - LINQ queries against SQLite via Entity Framework Core
 - MySQL querying and visualization
 - JSON data ingestion and deserialization
-
+- 
 # Backend & Development
-- C# / .NET 10 console applications
-- EF Core ORM (migrations, DbContext, relationships)
-- REST APIs (self-learning)
-- Docker containerization and management
+* C# / .NET 10 console applications
+* EF Core ORM (migrations, DbContext, entity relationships)
+* REST API development with ASP.NET Core
+* IoT data pipeline concepts (Meshtastic, Protocol Buffers, ETL)
+* Docker containerization and management
 
 # Microsoft Ecosystem
 - Power BI, Power Pivot, PowerShell
