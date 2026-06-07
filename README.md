@@ -4,7 +4,7 @@
 - LINQ queries against SQLite via Entity Framework Core
 - MySQL querying and visualization
 - JSON data ingestion and deserialization
-- 
+
 # Backend & Development
 * C# / .NET 10 console applications
 * EF Core ORM (migrations, DbContext, entity relationships)
